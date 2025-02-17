@@ -1,0 +1,24 @@
+{
+  "name": "KOROVA",
+  "symbol": "KRV",
+  "description": "This is a KOROVA.",
+  "seller_fee_basis_points": 0,
+  "image": "https://raw.githubusercontent.com/dalirad/KOROVA-KRV/67545545f19208ee7940465f5f46c89a66a406e3/2.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/dalirad/KOROVA-KRV/67545545f19208ee7940465f5f46c89a66a406e3/2.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "token",
+    "creators": [
+      {
+        "address": "FbSbhHVRFKLqW8RLxsrpctiLbjy5WYX3FfuCwVZBLwYQ",
+        "share": 100
+      }
+    ]
+  }
+}
